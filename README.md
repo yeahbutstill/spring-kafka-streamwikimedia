@@ -27,7 +27,3 @@ docker run --rm \
 -v "$PWD/storage/docker/wikimedia-db-data":/var/lib/mysql \
 mysql
 ```
-
-```sql
-
-```
